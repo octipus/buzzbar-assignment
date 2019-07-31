@@ -1,68 +1,38 @@
-# [Start Bootstrap - Grayscale](https://startbootstrap.com/template-overviews/grayscale/)
+# Lorem Ipsum - Buzzbar
 
-[Grayscale](http://startbootstrap.com/template-overviews/grayscale/) is a multipurpose, one page HTML theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
+Lorem Ipsum is a mockup project built on as part of an assignment for a creative agency in London based on [grayscale](https://github.com/BlackrockDigital/startbootstrap-grayscale) bootstrap template.
 
 ## Preview
 
-[![Grayscale Preview](https://startbootstrap.com/assets/img/screenshots/themes/grayscale.png)](https://blackrockdigital.github.io/startbootstrap-grayscale/)
+[![landing preview](https://github.com/octipus/buzzbar-assignment/blob/master/img/screenshots/landing.png?raw=true)](https://blackrockdigital.github.io/startbootstrap-grayscale/)
 
-**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-grayscale/)**
+[![product Preview](https://github.com/octipus/buzzbar-assignment/blob/master/img/screenshots/product.png?raw=true)](https://blackrockdigital.github.io/startbootstrap-grayscale/)
 
-## Status
+**[View Live Preview](https://octipus.github.io/buzzbar-assignment/)**
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-grayscale/master/LICENSE)
-[![npm version](https://img.shields.io/npm/v/startbootstrap-grayscale.svg)](https://www.npmjs.com/package/startbootstrap-grayscale)
-[![Build Status](https://travis-ci.org/BlackrockDigital/startbootstrap-grayscale.svg?branch=master)](https://travis-ci.org/BlackrockDigital/startbootstrap-grayscale)
-[![dependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-grayscale/status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-grayscale)
-[![devDependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-grayscale/dev-status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-grayscale?type=dev)
 
-## Download and Installation
+## Web Developer Assignment:
 
-To begin using this template, choose one of the following options to get started:
-* [Download the latest release on Start Bootstrap](https://startbootstrap.com/template-overviews/grayscale/)
-* Install via npm: `npm i startbootstrap-grayscale`
-* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-grayscale.git`
-* [Fork, Clone, or Download on GitHub](https://github.com/BlackrockDigital/startbootstrap-grayscale)
+Mike is a new client that just walked into our shop. He is the founder of a new company called Lorem Ipsum, which produces and sells brain-boosting energy drinks for young SEOs and alike.
 
-## Usage
+Mike doesn't have any current branding guidelines but he has a logo (attached, but only in a bitmap format for now, unfortunately). He is asking us to build a website for his brand, where he can sell the drink and explain its key benefits, which are: "Increased brain power", "Increased memory", "No more need to sleep". Meanwhile, he needs to have a landing page online asap, as he's meeting prospective investors in the coming days.
 
-### Basic Usage
+Your task is to build a draft of this landing page in around 3h in order to present it to the client on the next meeting.
 
-After downloading, simply edit the HTML and CSS files included with the template in your favorite text editor to make changes. These are the only files you need to worry about, you can ignore everything else! To preview the changes you make to the code, you can open the `index.html` file in your web browser.
 
-### Advanced Usage
+## These are the guidelines Mike gave us:
+* The landing page needs to show:
+     - the logo
+    - a tagline
+    - a small blurb about the drink
+    - an interesting way of showing the 3 key benefits of the drink
+    - a form to collect email addresses
+*  He wants the website to look cool and fresh, not cheesy-looking;
+* Needs to distance themselves from other well-known energy drinks such as Redbull or Monster
+*  He wants the key benefits to be explained in a simple way but they should be the central and more memorable part of the landing page, he mentioned it would be nice to have some kind of animated and/or interactive elements. "Surprise me!" he said.
+*  He wants us to pick the fonts according to what we think would be on-brand.
 
-After installation, run `npm install` and then run `npm start` which will open up a preview of the template in your default browser, watch for changes to core template files, and live reload the browser when changes are saved. You can view the `gulpfile.js` to see which tasks are included with the dev environment.
+### For the sake of simplicity, on this exercise:
 
-#### Gulp Tasks
-
-- `gulp` the default task that builds everything
-- `gulp watch` browserSync opens the project in your default browser and live reloads when changes are made
-- `gulp css` compiles SCSS files into CSS and minifies the compiled CSS
-- `gulp js` minifies the themes JS file
-- `gulp vendor` copies dependencies from node_modules to the vendor directory
-
-You must have npm installed globally in order to use this build environment.
-
-## Bugs and Issues
-
-Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-grayscale/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/grayscale/).
-
-## About
-
-Start Bootstrap is an open source library of free Bootstrap templates and themes. All of the free templates and themes on Start Bootstrap are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
-
-* https://startbootstrap.com
-* https://twitter.com/SBootstrap
-
-Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
-
-* http://davidmiller.io
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
-
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
-
-## Copyright and License
-
-Copyright 2013-2019 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-grayscale/blob/gh-pages/LICENSE) license.
+* The email collection form doesn't need to be functional;
+* You don't need to worry about copy, feel free to use placeholder content;
